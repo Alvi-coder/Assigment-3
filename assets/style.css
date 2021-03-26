@@ -1,0 +1,527 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+      width: 50%;
+    float: left;
+    
+}
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu{
+  
+       width: 50%;
+    float: left;
+    
+    
+}
+nav ul{
+    list-style: none;
+        
+    margin: 35px;
+}
+nav ul li{
+    display: inline-block;
+    
+}
+nav ul li a{
+        margin: 0px 14px;
+    text-decoration: none;
+    color: black;
+}
+.fa.fa-facebook{
+        color: white;
+    background-color: #3b5998;
+    padding: 2px 8px;
+}
+.fa.fa-twitter{
+        color: white;
+    background-color: #00ACEE;
+    padding: 2px 8px;
+}
+.fa.fa-linkedin{
+    color: white;
+    background-color: #0e76a8;
+    padding: 2px 8px;
+}
+.fa.fa-google-plus{
+    color: white;
+    background-color: #db4a39;
+    padding: 2px 8px;
+}
+.fa.fa-sign-in{
+    color: black;
+}
+.ins{
+    color: cadetblue;
+    text-decoration: none;
+}
+/*sign*/
+.sign{
+    width: 30%;
+    float: left;
+   
+}
+.sign ul{
+        margin: 35px -21px;
+}
+.sign ul li{
+        display: inline-block;
+        margin: 0px 6px;
+}
+.sign ul li a{
+    text-decoration: none;
+}
+.pic{
+    width: 65%;
+}
+.image{
+    background-image: url(../img/pexels-photo-3184357.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    height: 500px
+}
+.bo{
+         width: 708px;
+    background-color: #988f8f6e;
+    margin: 79px;
+    padding: 2px;
+    padding-bottom: 72px;
+    padding-left: 5px;
+    margin-left: 52px;
+}
+}
+.h-tag{
+    font-size: 300%;
+    margin:84px 174px;
+    margin-bottom: -3px;
+}
+.m-tag{
+    font-size: 300%;
+    margin: 0px 230px;
+}
+.l{
+    margin: 0px 177px;
+}
+.bgbg{
+        margin: 9px;
+    margin-left: 176px;
+    padding: 5px;
+    background-color: #7fff00e8;
+    color: black;
+    font-weight: bold;
+border: none;}
+.bgbe{
+          margin-left: 48px;
+    padding: 5px;
+    background-color: #7fff00e8;
+    border: none;
+    font-weight: bold;
+}
+button{
+    cursor: pointer;
+}
+.banner{
+       width: 50%;
+    float: left;
+    
+}
+/*section*/
+.section{
+    width: 100%;
+    float: left;
+}
+.thik{
+   width: 25%;
+    float: left;
+   
+}
+.check{
+      padding: 12px;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 50%;
+    width: 13px;
+    margin: 14px 116px;
+}
+        
+
+.pera{
+              margin: 15px 
+}
+.hee{
+       margin: 20px 83px;
+}
+.r{
+       margin: 0px 87px;
+    padding: 4px;
+    background-color: chartreuse;
+    color: white;
+    border: none;
+}
+.fa.fa-check{
+    
+}
+/*location*/
+.location{
+    width: 25%;
+    float: left;
+}
+.marker{
+     padding: 12px;
+    background-color: teal;
+    color: white;
+    border-radius: 50%;
+    width: 13px;
+    margin: 14px 116px;
+}
+.local{
+        margin: 22px 90px;  
+}
+.ladino{
+        margin: -4px 33px; 
+
+}
+.re{
+       margin: 19px 98px;
+    padding: 4px;
+    background-color: chartreuse;
+    color: white;
+    border: none;
+}
+.fa.fa-map-marker{
+    margin: 2px;
+}
+
+/*money*/
+.money{
+    width: 25%;
+    float: left;
+}
+.sig{
+     padding: 12px;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 50%;
+    width: 13px;
+    margin: 14px 116px;
+}
+.be{
+         margin: 21px 75px;
+}
+.ledi{
+    margin: -4px 33px;   
+}
+.fa.fa-money{
+    margin: -1px;
+}
+.bt{
+        margin: 19px 98px;
+    padding: 4px;
+    background-color: chartreuse;
+    color: white;
+    border: none;
+}
+/*sign up*/
+.upup{
+    width: 25%;
+    float: left;
+}
+.upl{
+       padding: 12px;
+    background-color: chartreuse;
+    color: white;
+    border-radius: 50%;
+    width: 13px;
+    margin: 14px 116px;
+}
+.upk{
+       margin: 20px 105px;  
+}
+
+.upj{
+   margin: -4px 33px; 
+    
+}
+.r-more{
+         margin: 19px 98px;
+    padding: 4px;
+    background-color: chartreuse;
+    color: white;
+    border: none;
+}
+/*invest money*/
+.invest-money{
+    width: 100%;
+    float: left;
+}
+.money-invest{
+        width: 40%;
+    float: left;
+    height: 225px;
+    background-color: #B8CCD5;
+    margin-left: 2%;
+}
+.fa.fa-dot-circle-o{
+    color: green;
+}
+.spsp{
+    color: black;
+}
+.ooney{
+   margin: 29px 110px;
+}
+.siz-o{
+        margin: 37px 70px;
+}
+.aaa{
+        margin: 8px 3px;
+    padding: 2px;
+    background-color: chartreuse;
+    font-size: 14px;
+    color: white;
+}
+
+
+.investmoney-two{
+    width: 40%;
+    float: left;
+    background-color: #B8CCD5;
+    height: 225px;
+    margin-left: 13%;
+}
+/*blog section*/
+.about{
+    width: 100%;
+    float: left;
+}
+.blog{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: darkslateblue;
+    margin: 25px -13px;
+}
+
+
+.new-features{
+    width: 100%;
+    float: left;
+}
+.container{
+    
+}
+.features-new{
+    width: 50%;
+    float: left;
+}
+.features-five{
+    font-size: 20px;
+    margin: 8px 31px;
+    color: dodgerblue;
+}
+.features-there{
+        margin: 0px 28px;
+}
+.features-read{
+          margin: 10px 28px;
+    padding: 3px;
+    background-color: chartreuse;
+    color: white;
+}
+
+
+.features-newnew{
+    width: 50%;
+    float: left;
+}
+.features-pre{
+       margin: 12px 61px;
+    font-size: 18px;
+    color: dodgerblue;
+}
+.features-pera{
+    margin: 27px 62px;
+}
+.buttonbutton{
+        margin: 0px 61px;
+    background-color: chartreuse;
+    padding: 3px;
+    color: white;
+}
+
+/*contect*/
+.aboutcon{
+    width: 100%;
+    float: left;
+}
+.container{
+    
+}
+.contact-num{
+    text-align: center;
+    background-color: #DCDCDC;
+    height: 160px;
+    padding: 10px;
+        margin: 15px;
+}
+.sor{
+    margin: 3px;
+    margin-top: 15px;
+}
+.fa fa-credit-card{
+    margin: 3px;
+}
+.orm{
+    margin: 3px;
+}
+.fa fa-users{
+    margin: 3px;
+}
+.spover{
+    margin: 3px;
+}
+.fa fa-files-o{
+    margin: 3px;
+}
+/*trust pilot*/
+.section{
+    width: 100%;
+    float: left;
+    
+}
+.truststar{
+    width: 100%;
+    float: left;
+ text-align: center
+}
+.fa.fa-star{
+    
+    display: inline-block;
+    color: darkcyan;
+    font-size: 25px;
+}
+.fa.fa-star-o{
+     margin: 5px -1px;
+    padding: 0px;
+    background-color: chartreuse;
+    color: white;
+    font-size: 28px;
+}
+.spa{
+   color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+.o-span{
+    color: gray
+}
+.score{
+    font-size: 9px;
+}
+
+
+/*Mention of ledino*/
+
+.dansk-banner{
+    width: 100%;
+    float: left;
+    background-color: gray;
+}
+.dansk-border{
+ width: 20%;
+    float: left;
+}
+
+.dansk-img{
+        background-image: url(../img/d.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 115px;
+}
+
+
+    
+
+.dansk-h{
+        margin: 33px;
+    text-align: center;
+    color: white;
+}
+.dansk-info{
+   font-size: 45px;
+    
+}
+
+/*fotter*/
+.fot{
+    width: 100%;
+    float: left;
+    background-color: midnightblue;
+    height: 150px;
+}
+.footer-ab{
+   margin: 41px 382px;
+    color: white;
+}
+.footer-eb{
+        margin: -53px 32px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
